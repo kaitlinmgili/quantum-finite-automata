@@ -1,1 +1,1 @@
-# sharing-github
+# Quantum Finite Automata Algorithm 
